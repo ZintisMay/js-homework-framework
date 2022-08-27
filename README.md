@@ -82,20 +82,16 @@
 
     It's basically a message from the programmer to you to help you out.
 
-
-
-
-
 ### jest.config.json
 
-This file works with the Jest library. It lets it know some things it should do.
+    This file works with the Jest library. It lets it know some things it should do.
 
 ### .gitignore
 
-Git is a program the keep track of your work. It's complicated, and worth spending some real time to learn to use it. You will need to learn it at some point.
+    Git is a program the keep track of your work. It's complicated, and worth spending some real time to learn to use it. You will need to learn it at some point.
 
-The .gitignore file tells git which parts of your project NOT to track. This usually includes the node_modules folder since you can just go download that with a simple command ("npm i").
+    The .gitignore file tells git which parts of your project NOT to track. This usually includes the node_modules folder since you can just go download that with a simple command ("npm i").
 
 ### ./tests/###.test.js
 
-This folder contains all the tests that are run. They are written specifically for the assignment.
+    This folder contains all the tests that are run. They are written specifically for the assignment.
