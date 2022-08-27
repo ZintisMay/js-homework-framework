@@ -1,0 +1,4 @@
+{
+  "testResultsProcessor": "./node_modules/jest-html-reporter",
+  "testMatch": ["**/tests/**/*.test.js"]
+}
